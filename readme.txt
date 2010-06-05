@@ -5,7 +5,7 @@ Version 1.1
 Tags: current, status, mood, moods, My Mood, Sidebar, Widget, quota,Show Off
 Requires at least: 2.7
 Tested up to: 2.9.2
-Stable tag: trunk
+Stable tag: 1.1
 
 Show your Mood status by using this plugin .
 
