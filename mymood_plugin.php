@@ -1,10 +1,10 @@
 <?php /*
 Plugin Name: MyMood
-Plugin URI:  http://www.techmore.info/?p=65
-Description: This Plugin is used to display your current status and mood from the list of 155 different moods and inspired from Currentstatus. 
+Plugin URI:  http://webgarb.com/?s=Mymood
+Description: Mymood Plugin usging this plugin you can show of your status or mood to your visitor simpily putting a widget in your sidebar Mymood comes with 97 cool difference Smileys and with many Unique Mood List . 
 Version: 1.0
-Author: Ayushdeep Singh
-Author URI: http://www.techmore.info
+Author: Webgarb
+Author URI: http://Webgarb.com
 */
 
 register_activation_hook(__FILE__, 'mymood_activ');
