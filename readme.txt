@@ -1,29 +1,40 @@
 === MyMood ===
-Contributors: AyushdeepSingh as SorcererAyush
-Donate link: http://techmore.info
-Tags: current, status, mood, moods, Mymood, sidebar, widget
+Contributors: Webgarb.com
+Donate link: http://webgarb.com/?s=Mymood
+Version 1.0
+Tags: current, status, mood, moods, My Mood, Sidebar, Widget, quota,Show Off
 Requires at least: 2.7
-Tested up to: 2.7.1
+Tested up to: 2.7
 Stable tag: trunk
 
 This plugin is used to show off your current "status" and "mood" on blog.
 
 == Description ==
 
-Mymood Plugin is used to show your current status and mood with smileys on your blog. Status is entered through a text field and mood can be selected from an dropdown list of 155 , 79 Smileys and different unique moods.
+Mymood Plugin usging this plugin you can show of your status or mood to your visitor simpily putting a widget in your sidebar Mymood comes with 97 cool difference Smileys and with many Unique Mood List Idea Taken by Current Status.
+
+Version Change logs Details :
+
+1.0 
+---
+1. Can Show Status with Smileys.
+2. Else Field to Descrip More Details.
+3. Many Unique Status Available.
+4. Widget is Supported for showing Status Easily in your sidebar.
+
 
 == Installation ==
 
-1. Download and Unpack the `mymood_plugin` directory from the zip file.
+1. Download and Unpack the `mymood` directory from the zip file.
 1. Upload `mymood_plugin` directory to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Then go to your "WidGets" and Activate Mymood Widgets in any Side Bar Enjoy.
 
 == Frequently Asked Questions ==
 
-= Where can I discuss any issue about this plugin? =
+Question : Where can I discuss any issue about this plugin? 
 
-Any issue, bug etc can be discuss here: http://www.techmore.info/?p=65
+Answer : Any issue, bug etc can be discuss here: http://webgarb.com/?s=Mymood
 
 == Screenshots ==
 
