@@ -1,5 +1,5 @@
 === MyMood ===
-Contributors: Webgarb.com
+Contributors: webgarb
 Donate link: http://webgarb.com/?s=Mymood
 Version 1.1
 Tags: current, status, mood, moods, My Mood, Sidebar, Widget, quota,Show Off
