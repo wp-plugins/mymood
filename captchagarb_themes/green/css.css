@@ -1,0 +1,68 @@
+/*
+Captcha Garb WordPress Plugin Theme CSS code
+Theme Name : Green
+Author : Ayush (WebGarb.com)
+*/
+.captchagarb {
+background-color:#008000;
+margin-top:5px;
+margin-bottom:5px;
+width:160px;
+-webkit-border-radius:5px;
+border-radius:5px;
+border-color:#005A00;
+border-style:solid;
+border-width:1px;
+}
+
+.captchagarb .loader {
+display:none;
+margin:5px auto;
+}
+
+.captchagarb .puzit {
+display:block;
+background-color:#005B00;
+text-align:center;
+color:#01D800;
+text-transform:uppercase;
+}
+
+.captchagarb .refr {
+width:58px;
+height:20px;
+line-height:20px;
+display:block;
+background-color:#01A100;
+text-decoration:none;
+text-align:center;
+font-size:10px;
+text-transform:uppercase;
+color:#005C00;
+-webkit-border-radius:2px;
+border-radius:2px;
+margin:auto auto 4px;
+}
+
+.captchagarb .refr:hover {
+background-color:#01B400;
+}
+
+.captchagarb .puz_container {
+margin:0;
+padding:0;
+}
+
+.captchagarb .puz_container ul {
+width:154px;
+margin:5px auto;
+padding:0;
+}
+
+.captchagarb .puz_container ul li {
+cursor:move;
+border-color:#008000;
+border-style:outset;
+border-width:1px;
+padding:0;
+}

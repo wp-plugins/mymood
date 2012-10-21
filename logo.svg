@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-408.98184 : -291.72391 : 0"
+       inkscape:vp_y="74.978728 : 997.18515 : 0"
+       inkscape:vp_z="382.27723 : -151.80981 : 0"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2991" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="-713.95635"
+     inkscape:cy="1002.8573"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="669"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:70.11147308px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#416600;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-842.56201"
+       y="70.003891"
+       id="text3937"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="D:\Development\Development\WebServer\www\wordpress\wp-content\plugins\captcha-garb\text4145.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3939"
+         x="-842.56201"
+         y="70.003891"
+         style="font-size:63.10032654px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#416600;fill-opacity:1;font-family:Aller;-inkscape-font-specification:Aller"><tspan
+           style="fill:#7aa000;fill-opacity:1"
+           id="tspan4033">Captcha</tspan><tspan
+           style="fill:#3a3a3a;fill-opacity:1"
+           id="tspan4143"> Garb</tspan></tspan></text>
+    <rect
+       style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect4151"
+       width="66.396835"
+       height="23.902859"
+       x="-646.36847"
+       y="74.577141"
+       ry="9.7784424"
+       rx="0"
+       inkscape:export-filename="D:\Development\Development\WebServer\www\wordpress\wp-content\plugins\captcha-garb\text4145.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:154.71018982px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-712.83551"
+       y="95.083076"
+       id="text4145"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4147"
+         x="-712.83551"
+         y="95.083076"
+         style="font-size:22.54838371px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+           style="fill:#d40000"
+           id="tspan4167">STOP</tspan><tspan
+           style="fill:#e6e6e6"
+           id="tspan4165"> SPAM</tspan><tspan
+           style="fill:#d40000"
+           id="tspan4169"> WITH FUN</tspan></tspan></text>
+  </g>
+</svg>

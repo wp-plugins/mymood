@@ -1,0 +1,68 @@
+/*
+Captcha Garb WordPress Plugin Theme CSS code
+Theme Name : Red
+Author : Ayush (WebGarb.com)
+*/
+.captchagarb {
+background-color:#FF0000;
+margin-top:5px;
+margin-bottom:5px;
+width:160px;
+-webkit-border-radius:5px;
+border-radius:5px;
+border-color:#B00000;
+border-style:solid;
+border-width:1px;
+}
+
+.captchagarb .loader {
+display:none;
+margin:5px auto;
+}
+
+.captchagarb .puzit {
+display:block;
+background-color:#9F0000;
+text-align:center;
+color:#FF7878;
+text-transform:uppercase;
+}
+
+.captchagarb .refr {
+width:58px;
+height:20px;
+line-height:20px;
+display:block;
+background-color:#FF5C5C;
+text-decoration:none;
+text-align:center;
+font-size:10px;
+text-transform:uppercase;
+color:#760000;
+-webkit-border-radius:2px;
+border-radius:2px;
+margin:auto auto 4px;
+}
+
+.captchagarb .refr:hover {
+background-color:#FF8080;
+}
+
+.captchagarb .puz_container {
+margin:0;
+padding:0;
+}
+
+.captchagarb .puz_container ul {
+width:154px;
+margin:5px auto;
+padding:0;
+}
+
+.captchagarb .puz_container ul li {
+cursor:move;
+border-color:#FF0000;
+border-style:outset;
+border-width:1px;
+padding:0;
+}

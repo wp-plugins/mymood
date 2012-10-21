@@ -1,0 +1,68 @@
+/*
+Captcha Garb WordPress Plugin Theme CSS code
+Theme Name : Brown
+Author : Ayush (WebGarb.com)
+*/
+.captchagarb {
+background-color:#7A4012;
+margin-top:5px;
+margin-bottom:5px;
+width:160px;
+-webkit-border-radius:5px;
+border-radius:5px;
+border-color:#481706;
+border-style:solid;
+border-width:1px;
+}
+
+.captchagarb .loader {
+display:none;
+margin:5px auto;
+}
+
+.captchagarb .puzit {
+display:block;
+background-color:#D5AD6F;
+text-align:center;
+color:#7A4012;
+text-transform:uppercase;
+}
+
+.captchagarb .refr {
+width:58px;
+height:20px;
+line-height:20px;
+display:block;
+background-color:#481706;
+text-decoration:none;
+text-align:center;
+font-size:10px;
+text-transform:uppercase;
+color:#C09372;
+-webkit-border-radius:2px;
+border-radius:2px;
+margin:auto auto 4px;
+}
+
+.captchagarb .refr:hover {
+background-color:#7D280A;
+}
+
+.captchagarb .puz_container {
+margin:0;
+padding:0;
+}
+
+.captchagarb .puz_container ul {
+width:154px;
+margin:5px auto;
+padding:0;
+}
+
+.captchagarb .puz_container ul li {
+cursor:move;
+border-color:#D5AD6F;
+border-style:outset;
+border-width:1px;
+padding:0;
+}
